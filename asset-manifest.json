@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/codecanvas/static/css/main.eb498469.css",
-    "main.js": "/codecanvas/static/js/main.7b964226.js",
+    "main.js": "/codecanvas/static/js/main.9047ef77.js",
     "static/js/266.c83f1d30.chunk.js": "/codecanvas/static/js/266.c83f1d30.chunk.js",
     "static/js/4450.a10048e2.chunk.js": "/codecanvas/static/js/4450.a10048e2.chunk.js",
     "static/js/8849.c0dfb0c0.chunk.js": "/codecanvas/static/js/8849.c0dfb0c0.chunk.js",
@@ -58,10 +58,10 @@
     "static/js/5729.9af2aa50.chunk.js": "/codecanvas/static/js/5729.9af2aa50.chunk.js",
     "index.html": "/codecanvas/index.html",
     "main.eb498469.css.map": "/codecanvas/static/css/main.eb498469.css.map",
-    "main.7b964226.js.map": "/codecanvas/static/js/main.7b964226.js.map"
+    "main.9047ef77.js.map": "/codecanvas/static/js/main.9047ef77.js.map"
   },
   "entrypoints": [
     "static/css/main.eb498469.css",
-    "static/js/main.7b964226.js"
+    "static/js/main.9047ef77.js"
   ]
 }
